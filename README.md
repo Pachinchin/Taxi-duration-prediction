@@ -5,7 +5,4 @@ Ride hailing services are services that use online-enabled platforms to connect 
 To improve the efficiency of taxi dispatching systems for such services, it is important to be able to predict how long a driver will have his taxi occupied. If a dispatcher knew approximately when a taxi driver would be ending their current ride, they would be better able to identify which driver to assign to each pickup request.
 first we will use 
 - Logistic regression model to make prediction
-- Gradient boosting
-- xgbost
-the final prediction 
-will be an Esemble model of the three various model 
+
